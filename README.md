@@ -12,3 +12,6 @@ Updates:
 
 1. 7/7/2025: First day of the course. Went over the first week of content including the general setup of the course as well as an overview
 of what neural networks are
+
+2. 7/8/2025: Second day of the course. This day was focused on conceptualizing logistic regression as a neural network. The instructor introduces a binary cross
+entropy function and introduces gradient descent.
