@@ -8,4 +8,7 @@ The general structure of this will be broken down into two folders:
 2) Projects
     As the name suggests, this will house the projects and general coding assignments undertaken during the duration of the course
 
+Updates:
 
+1. 7/7/2025: First day of the course. Went over the first week of content including the general setup of the course as well as an overview
+of what neural networks are
